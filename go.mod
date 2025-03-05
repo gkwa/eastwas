@@ -11,7 +11,7 @@ require (
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.19.0
 	github.com/taylormonacelli/goldbug v0.0.6
-	golang.org/x/sync v0.11.0
+	golang.org/x/sync v0.12.0
 	mvdan.cc/xurls/v2 v2.6.0
 )
 
