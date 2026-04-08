@@ -2,7 +2,7 @@ module github.com/gkwa/eastwas
 
 go 1.25.0
 
-toolchain go1.26.1
+toolchain go1.26.2
 
 require (
 	github.com/atotto/clipboard v0.1.4
