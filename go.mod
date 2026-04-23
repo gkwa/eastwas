@@ -7,7 +7,7 @@ toolchain go1.26.2
 require (
 	github.com/atotto/clipboard v0.1.4
 	github.com/go-git/go-git/v5 v5.18.0
-	github.com/magefile/mage v1.17.1
+	github.com/magefile/mage v1.17.2
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	github.com/taylormonacelli/goldbug v0.0.6
